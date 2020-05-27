@@ -1,0 +1,344 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+
+
+
+
+* {
+	transition: .7s all
+}
+body {
+	background-image: url(img/depositphotos_26569863-stock-photo-abstract-black-background.jpg);
+}
+
+header {
+	color: #fff;
+	font-family: serif;
+}
+
+a {
+	color: #fff;
+}
+
+address{
+	color: #5D6368;
+
+	font-size:3em;
+	font-family:Lobster;
+}
+@media (min-width: 701px) {
+	img{
+    	display: block; 
+
+		margin-left: auto;
+	    margin-right: auto;
+
+		text-align: justify;
+	}
+
+	#в_що_пограти {
+		text-align: center;
+		font-size: 30px;
+
+		color: #E1CA65;
+
+	}
+
+
+	.Вступ {
+		color: #E1CA65;
+
+		text-align: center;
+
+		padding-top: 15px;
+		padding-bottom: 15px;
+
+		padding-left: 40px;
+		padding-right: 40px;
+		
+		font-size: 15px;
+		font-family: Noto Serif;
+
+	}
+
+
+
+	#PS {
+		color: #C0C0C0;
+
+		font-size: 11.5px;
+	
+	}
+
+
+
+	#G1 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+	#G2 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+	#G3 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+
+	#G5 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+	#G6 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+	#G7 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+	#G8 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+	#G9 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+	#G10 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+	#G11 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+	#G12 {
+		text-align: center;
+
+		font-size: 20px;
+		font-family: Piedra;
+	}
+
+
+
+	.Тексти_Ігор {
+		color: #fff;
+		
+		margin-left: auto;
+	    margin-right: auto;
+	    width: 35em;
+		
+		text-align: justify;
+
+		margin-bottom: 15px;
+
+		font-family: Lobster;
+		font-size: 20px;
+	}
+
+	.Післямова {
+		color: #fff;
+		
+		margin-left: auto;
+	    margin-right: auto;
+	    width: 35em;
+		
+		text-align: center;
+
+		margin-bottom: 15px;
+
+		font-family: Noto Serif;
+		font-size: 20px;
+	}
+}
+
+
+
+@media (max-width: 700px) {
+	img{
+    	display: block; 
+
+		margin-left: auto;
+	    margin-right: auto;
+
+		text-align: justify;
+	}
+
+	#в_що_пограти {
+		text-align: center;
+		font-size: 20px;
+
+		color: #E1CA65;
+
+	}
+	
+	.Вступ {
+		color: #fff;
+
+		text-align: left;
+
+		padding-top: 15px;
+		padding-bottom: 15px;
+
+		padding-left: 4px;
+		padding-right: 20px;
+		
+		font-size: 12.5px;
+		font-family: Noto Serif;
+
+	}
+
+	#PS {
+		color: #C0C0C0;
+
+		font-size: 10px;
+	
+	}
+
+	
+		#G1 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+
+	#G2 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+
+	#G3 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+
+	#G5 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+
+	#G6 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+
+	#G7 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+
+	#G8 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+
+	#G9 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+
+	#G10 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+
+	#G11 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+
+	#G12 {
+		text-align: center;
+
+		font-size: 15px;
+		font-family: Piedra;
+	}
+	
+	.Тексти_Ігор {
+		color: #fff;
+		
+		margin-left: auto;
+	    margin-right: auto;
+
+	    margin-bottom: 10px;
+
+	    width: 35em;
+		
+		text-align: justify;
+		
+		font-family: Lobster;
+		font-size: 15px;
+	}
+
+
+	.Післямова {
+		color: #fff;
+		
+		margin-left: auto;
+	    margin-right: auto;
+	    width: 25em;
+		
+		text-align: center;
+
+		margin-bottom: 15px;
+
+		font-family: Noto Serif;
+		font-size: 15px;
+	}
+}
+
+
